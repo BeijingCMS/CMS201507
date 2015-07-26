@@ -1,0 +1,2 @@
+﻿SSOACommerce open source edition is licensed under SSOACommerce Public License Version 3.0 ("NPL"). 
+Please find more info here: http://www.SSOAcommerce.com/licensev3.aspx
