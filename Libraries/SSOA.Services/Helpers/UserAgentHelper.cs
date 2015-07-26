@@ -34,7 +34,7 @@ namespace SSOA.Services.Helpers
         [MethodImpl(MethodImplOptions.Synchronized)]
         protected virtual UasParser GetUasParser()
         {
-            if (Singleton<UasParser>.Instance == null)
+            if (Singleton<UasParser>.Instance == null) 
             {
                 //no database created
                 if (String.IsNullOrEmpty(_config.UserAgentStringsPath))
